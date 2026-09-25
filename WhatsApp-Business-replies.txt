@@ -1,0 +1,94 @@
+Adelaide Well — WhatsApp Business
+Phone: 0418 193 883
+Link: https://wa.me/61418193883
+Open this page on the phone while you type the replies in.
+
+WHERE TO TAP
+WhatsApp Business > Settings > Business tools
+Greeting message
+Away message
+Quick replies
+Labels
+
+PROFILE
+Name: Adelaide Well
+Category: Shopping (or the closest supplier category)
+About: Chargers, kitchens, sails and sailbags. We supply. A licensed person fits.
+Website: https://www.adelaidewell.com.au/
+Hours: Monday to Friday, 9am to 5pm Adelaide time
+Address: leave hidden. Service is Adelaide.
+
+GREETING (first message only)
+Adelaide Well. Chargers, kitchens, sails and sailbags.
+Reply with 1, 2 or 3, and your suburb.
+1 Charger
+2 Kitchen
+3 Sail
+We quote the supply. A licensed person fits it.
+
+AWAY
+Thanks. Adelaide Well replies on the next business day.
+If you have not already, send 1 charger, 2 kitchen or 3 sail, plus your suburb.
+
+QUICK REPLIES
+Tap +, then shortcut, then the message. Type / and the shortcut inside a chat to send it.
+
+Shortcut: hi
+Adelaide Well. Chargers, kitchens, sails and sailbags.
+Reply 1 charger, 2 kitchen or 3 sail, and your suburb.
+
+Shortcut: contact
+Adelaide Well Pty Ltd
+WhatsApp 0418 193 883
+https://www.adelaidewell.com.au/
+Chargers: WellCharge@adelaidewell.com.au
+Kitchens: WellHome@adelaidewell.com.au
+Sails: Loft@adelaidewell.com.au
+
+Shortcut: charge
+WellCharge supplies the charger for a house or an office.
+Your electrician fits it and invoices the labour. We invoice the unit.
+Please send: suburb, house or office, and single-phase or three-phase if you know it.
+
+Shortcut: kitchen
+WellHome Interiors supplies cabinets made to your drawing.
+Please send: suburb, and say if a drawing is ready.
+A designer can draw. A cabinet maker fits. Each invoices their own work.
+
+Shortcut: sail
+WellHome Loft supplies sails and sailbags. Mainsail, headsail and covers. Collect in Adelaide.
+Please send: boat name, which sails, and a photo of the old sail if you have one.
+
+Shortcut: need
+To quote, please send:
+Your name
+Suburb
+1 charger, 2 kitchen or 3 sail
+For a charger: house or office
+For a kitchen: is the drawing ready
+For a sail: boat name
+
+Shortcut: how
+Adelaide Well supplies the goods.
+A licensed electrician fits a charger.
+A cabinet maker fits a kitchen.
+Sails are collected in Adelaide.
+We confirm the arrival month after the factory date is fixed.
+
+Shortcut: thanks
+Thank you. We will reply with the next step on the next business day.
+
+LABELS (long-press a chat, then Label)
+New
+Charger
+Kitchen
+Sail
+Need info
+Quoted
+
+CATALOGUE — three items only
+WellCharge — Home and office charger. Your electrician fits it.
+WellHome Interiors — Kitchen cabinets made to the drawing.
+WellHome Loft — Sails and sailbags. Collect in Adelaide.
+
+Do not put a price, a rebate, Wi-Fi, or a delivery day in these replies.
